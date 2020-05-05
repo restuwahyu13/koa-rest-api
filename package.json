@@ -1,0 +1,32 @@
+{
+  "name": "koa-app",
+  "version": "1.0.0",
+  "description": "rest api with koajs, mongoose and json web token",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "restuwahyu13"
+  },
+  "keywords": [
+    "koajs",
+    "rest",
+    "api",
+    "nodejs"
+  ],
+  "dependencies": {
+    "koa": "^2.11.0",
+    "koa-body": "^4.1.1",
+    "koa-router": "^8.0.8",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.9.11"
+  },
+  "devDependencies": {
+    "koa-logger": "^3.2.1"
+  },
+  "author": "restuwahyu13",
+  "license": "ISC"
+}

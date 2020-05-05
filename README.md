@@ -1,6 +1,6 @@
 ## Example Rest API with KoaJS
 
-**Berikut adalah** contoh implementasi **Rest API** menggunakan **KoaJs** berikut dengan **MongoDB** dan authentikasi menggunakan **JWT**.
+**Berikut adalah** contoh implementasi **Rest API** menggunakan **KoaJs** berikut dengan **MongoDB** database dan authentikasi menggunakan **JWT**.
 
 #### Cara Menjalankan
 
